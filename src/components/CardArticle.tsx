@@ -1,8 +1,9 @@
 import Description from './Description'
 import Flag from './Flag'
 import Line from './Line'
+import Title from './Title'
 
-import Title from './title'
+
 
 const CardArticle = () => {
   return (
