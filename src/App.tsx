@@ -6,7 +6,7 @@ function App() {
     <>
       <div className="absolute z-20 w-full top-0 overflow-hidden">
         <Header />
-        <div className="grid grid-cols-3 2xl:grid-cols-4 gap-[12px] py-[12px] pb-12 max-h-[600px] 2xl:max-h-[900px] overflow-auto cardBox">
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-[12px] py-[12px] pb-12 max-h-screen overflow-auto">
           <CardItem />
           <CardItem />
           <CardItem />
